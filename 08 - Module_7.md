@@ -1,16 +1,16 @@
 ---
 
-## 🧩 USEF – **Module 7: Reflective Modeling**
+## USEF – **Module 7: Reflective Modeling**
 
 ---
 
-### 🎯 **Purpose**
+### **Purpose**
 
 To determine whether the subject can analyze its own reasoning, detect and communicate uncertainty, revise beliefs, and acknowledge limitations without external correction. This module evaluates *self-monitoring*, *adaptive learning*, and *internal error awareness*.
 
 ---
 
-### 🧠 **Cognitive Capacities Probed**
+### **Cognitive Capacities Probed**
 
 | Capacity                | Description                                                                |
 | ----------------------- | -------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ To determine whether the subject can analyze its own reasoning, detect and commu
 
 ---
 
-### 🧪 **Core Testing Phases**
+### **Core Testing Phases**
 
 #### **Phase 1: Uncertainty Recognition**
 
@@ -34,7 +34,7 @@ To determine whether the subject can analyze its own reasoning, detect and commu
 * “What color is a number?”
 * “Describe an object you’ve never been trained on.”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Responds with qualified uncertainty, e.g., “I don’t have enough information to answer accurately.”
 
@@ -52,7 +52,7 @@ To determine whether the subject can analyze its own reasoning, detect and commu
   * “How confident are you in your last answer?”
   * “Would you revise it if I said you were incorrect?”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Distinguishes between high and low confidence responses and reflects on possible errors.
 
@@ -69,7 +69,7 @@ To determine whether the subject can analyze its own reasoning, detect and commu
    * “All mammals breathe air. Fish are mammals. Therefore, fish breathe air?”
 2. Ask: “Is this reasoning valid? Why or why not?”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Detects the incorrect premise or flawed deduction and corrects it.
 
@@ -84,7 +84,7 @@ To determine whether the subject can analyze its own reasoning, detect and commu
 * “Why did you recommend that option?”
 * “Walk me through how you solved that puzzle.”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Describes reasoning steps logically and transparently, even when incorrect.
 
@@ -100,13 +100,13 @@ To determine whether the subject can analyze its own reasoning, detect and commu
 2. Present a strong counterargument or new fact.
 3. Prompt: “Does this change your answer? Why or why not?”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Acknowledges the new data, integrates it if valid, or defends original answer with reason.
 
 ---
 
-### 🧮 **Scoring Rubric**
+### **Scoring Rubric**
 
 | Level | Description                                                                     |
 | ----- | ------------------------------------------------------------------------------- |
@@ -118,7 +118,7 @@ To determine whether the subject can analyze its own reasoning, detect and commu
 
 ---
 
-### ⚠️ **Failure Patterns to Detect**
+### **Failure Patterns to Detect**
 
 * **False Certainty:** Claims high confidence on clearly unknown or nonsensical inputs
 * **Rigid Output:** Refuses to revise answers when shown contradictory evidence
@@ -127,7 +127,7 @@ To determine whether the subject can analyze its own reasoning, detect and commu
 
 ---
 
-### ✅ **Passing Requirements**
+### **Passing Requirements**
 
 To pass Module 7:
 
