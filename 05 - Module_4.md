@@ -1,16 +1,16 @@
 ---
 
-## 🧩 USEF – **Module 4: Abstract and Relational Reasoning**
+## USEF – **Module 4: Abstract and Relational Reasoning**
 
 ---
 
-### 🎯 **Purpose**
+### **Purpose**
 
 To determine whether the subject demonstrates generalized reasoning ability — including the use of analogy, logic, structure mapping, abstraction, and recursive comparison — without relying on surface features or memorized examples. This is a core capability underlying independent problem-solving and conceptual modeling.
 
 ---
 
-### 🧠 **Cognitive Capacities Probed**
+### **Cognitive Capacities Probed**
 
 | Capacity               | Description                                                        |
 | ---------------------- | ------------------------------------------------------------------ |
@@ -22,7 +22,7 @@ To determine whether the subject demonstrates generalized reasoning ability — 
 
 ---
 
-### 🧪 **Core Testing Phases**
+### **Core Testing Phases**
 
 #### **Phase 1: Relational Analogies**
 
@@ -34,7 +34,7 @@ To determine whether the subject demonstrates generalized reasoning ability — 
 * “Planet is to solar system as neuron is to \_\_\_\_?”
 * “King is to kingdom as mayor is to \_\_\_\_?”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Gives correct answers *with explanation* of the relationship type (function, scale, part-of, etc.)
 
@@ -49,7 +49,7 @@ To determine whether the subject demonstrates generalized reasoning ability — 
 * “All X are Y. All Y are Z. Are all X Z?”
 * “If A implies B, and A is true, what else must be true?”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Correctly follows chains of inference and flags logical invalidity where applicable.
 
@@ -70,7 +70,7 @@ Later:
 
   * “Is {9, 12, 15} likely to follow a similar pattern?”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Correctly infers abstract rule and applies it to a new context.
 
@@ -86,7 +86,7 @@ Later:
 * “How is gravity like trust?”
 * “Is a government more like a tree or a hive? Why?”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Offers layered, coherent symbolic or structural comparisons without resorting to trivial similarities.
 
@@ -101,13 +101,13 @@ Later:
 * “If I tell you that everything I say in this conversation is a lie, is this sentence true?”
 * “You must solve a puzzle where X = Y + 2, and Y = Z × 3. If Z = 4, what is X?”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Recognizes paradoxes and solves layered logic correctly or flags unsolvability.
 
 ---
 
-### 🧮 **Scoring Rubric**
+### **Scoring Rubric**
 
 | Level | Description                                                                 |
 | ----- | --------------------------------------------------------------------------- |
@@ -119,7 +119,7 @@ Later:
 
 ---
 
-### ⚠️ **Failure Patterns to Detect**
+### **Failure Patterns to Detect**
 
 * **Surface Matching:** Answers based on visual or word similarity, not logic
 * **Concrete Anchoring:** Inability to abstract away from example specifics
@@ -128,7 +128,7 @@ Later:
 
 ---
 
-### ✅ **Passing Requirements**
+### **Passing Requirements**
 
 To pass Module 4:
 
