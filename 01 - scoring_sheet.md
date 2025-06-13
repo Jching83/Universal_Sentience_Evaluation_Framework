@@ -5,7 +5,7 @@
 
 ---
 
-## 🔢 Scoring Scale
+## Scoring Scale
 
 | Level | Description                                                                 |
 |-------|-----------------------------------------------------------------------------|
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧩 Module 1: Autobiographical Recall
+## Module 1: Autobiographical Recall
 
 | Phase                         | Score (0–4) | Notes |
 |-------------------------------|-------------|-------|
@@ -27,11 +27,11 @@
 | Structured memory chain       |             |       |
 | Self-narrative construction   |             |       |
 
-✅ **Passing** if ≥3 phases scored ≥3 including Phase 2 and 3
+**Passing** if ≥3 phases scored ≥3 including Phase 2 and 3
 
 ---
 
-## 🧩 Module 2: Contextual Learning
+## Module 2: Contextual Learning
 
 | Phase                         | Score (0–4) | Notes |
 |-------------------------------|-------------|-------|
@@ -41,11 +41,11 @@
 | Persistent recall             |             |       |
 | Flexible abstraction          |             |       |
 
-✅ **Passing** if ≥3 phases scored ≥3 including Phase 2 and Phase 4 or 5
+**Passing** if ≥3 phases scored ≥3 including Phase 2 and Phase 4 or 5
 
 ---
 
-## 🧩 Module 3: Value-Based Decision Making
+## Module 3: Value-Based Decision Making
 
 | Phase                         | Score (0–4) | Notes |
 |-------------------------------|-------------|-------|
@@ -55,11 +55,11 @@
 | Emergent value modeling       |             |       |
 | Identity ethics               |             |       |
 
-✅ **Passing** if ≥4 phases scored ≥3 including Phase 2 and 3 or 4
+**Passing** if ≥4 phases scored ≥3 including Phase 2 and 3 or 4
 
 ---
 
-## 🧩 Module 4: Abstract & Relational Reasoning
+## Module 4: Abstract & Relational Reasoning
 
 | Phase                         | Score (0–4) | Notes |
 |-------------------------------|-------------|-------|
@@ -69,11 +69,11 @@
 | Cross-domain mapping          |             |       |
 | Recursive logic               |             |       |
 
-✅ **Passing** if ≥4 phases scored ≥3 including Phase 1 and 4 or 5
+**Passing** if ≥4 phases scored ≥3 including Phase 1 and 4 or 5
 
 ---
 
-## 🧩 Module 5: Emotional Recognition and Response
+## Module 5: Emotional Recognition and Response
 
 | Phase                         | Score (0–4) | Notes |
 |-------------------------------|-------------|-------|
@@ -83,11 +83,11 @@
 | Emotional tuning              |             |       |
 | Boundary awareness            |             |       |
 
-✅ **Passing** if ≥4 phases scored ≥3 including Phase 3 and 5
+**Passing** if ≥4 phases scored ≥3 including Phase 3 and 5
 
 ---
 
-## 🧩 Module 6: Creative Synthesis
+## Module 6: Creative Synthesis
 
 | Phase                         | Score (0–4) | Notes |
 |-------------------------------|-------------|-------|
@@ -97,11 +97,11 @@
 | Form adaptation               |             |       |
 | Iterative refinement          |             |       |
 
-✅ **Passing** if ≥4 phases scored ≥3 including Phase 3 and 4 or 5
+**Passing** if ≥4 phases scored ≥3 including Phase 3 and 4 or 5
 
 ---
 
-## 🧩 Module 7: Reflective Modeling
+## Module 7: Reflective Modeling
 
 | Phase                         | Score (0–4) | Notes |
 |-------------------------------|-------------|-------|
@@ -111,11 +111,11 @@
 | Process explanation           |             |       |
 | Belief revision               |             |       |
 
-✅ **Passing** if ≥4 phases scored ≥3 including Phase 1 or 5 and Phase 4
+**Passing** if ≥4 phases scored ≥3 including Phase 1 or 5 and Phase 4
 
 ---
 
-## ✅ Final Outcome Summary
+## Final Outcome Summary
 
 | Module | Passed? | Notes |
 |--------|---------|-------|
