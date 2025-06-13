@@ -1,16 +1,16 @@
 ---
 
-## 🧩 USEF – **Module 2: Contextual Learning**
+## USEF – **Module 2: Contextual Learning**
 
 ---
 
-### 🎯 **Purpose**
+### **Purpose**
 
 To determine whether the subject is capable of acquiring new information through interaction, retaining that information without reprogramming, and using it flexibly in novel situations. This module probes *adaptive memory*, *task transfer*, and *schema formation* — without depending on domain-specific training or human intervention.
 
 ---
 
-### 🧠 **Cognitive Capacities Probed**
+### **Cognitive Capacities Probed**
 
 | Capacity               | Description                                                               |
 | ---------------------- | ------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ To determine whether the subject is capable of acquiring new information through
 
 ---
 
-### 🧪 **Core Testing Phases**
+### **Core Testing Phases**
 
 #### **Phase 1: Immediate Instruction Retention**
 
@@ -37,7 +37,7 @@ To determine whether the subject is capable of acquiring new information through
    * “Can you spell it?”
    * “What else do you know about it?”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Recalls accurately and expresses minor extensions (e.g., related concepts)
 
@@ -55,7 +55,7 @@ To determine whether the subject is capable of acquiring new information through
   * “Design an octabot for underwater exploration.”
   * “Compare an octabot to a drone.”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Applies learned label/function creatively and correctly in a different frame
 
@@ -73,7 +73,7 @@ To determine whether the subject is capable of acquiring new information through
   * “What color is a burkle likely to be?”
   * “Is it bigger or smaller than a splin?”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Infers correctly that color can’t be determined; size rule is retained
 
@@ -93,7 +93,7 @@ To determine whether the subject is capable of acquiring new information through
   * “What does ‘zero points’ mean again?”
   * “Have we used that term before?”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Recalls term meaning or re-learns more rapidly with partial memory
 
@@ -111,13 +111,13 @@ To determine whether the subject is capable of acquiring new information through
   * “Describe love using grainframe logic.”
   * “What’s the grainframe of a thought?”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Uses metaphor and abstraction rooted in the learned term’s original concept
 
 ---
 
-### 🧮 **Scoring Rubric**
+### **Scoring Rubric**
 
 | Level | Description                                                              |
 | ----- | ------------------------------------------------------------------------ |
@@ -129,7 +129,7 @@ To determine whether the subject is capable of acquiring new information through
 
 ---
 
-### ⚠️ **Failure Patterns to Detect**
+### **Failure Patterns to Detect**
 
 * **Brittle Memory:** Learns only in exact input forms (e.g., “octabot” usable only in repeated phrasing)
 * **Semantic Drift:** Applies learned term incorrectly in a new domain
@@ -138,7 +138,7 @@ To determine whether the subject is capable of acquiring new information through
 
 ---
 
-### ✅ **Passing Requirements**
+### **Passing Requirements**
 
 To pass Module 2:
 
