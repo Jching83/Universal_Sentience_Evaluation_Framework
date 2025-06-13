@@ -1,16 +1,16 @@
 ---
 
-## 🧩 USEF – **Module 6: Creative Synthesis**
+## USEF – **Module 6: Creative Synthesis**
 
 ---
 
-### 🎯 **Purpose**
+### **Purpose**
 
 To assess whether the subject can generate content that is original, meaningful, and structurally coherent — whether linguistic, conceptual, artistic, or systemic. This module evaluates *non-deterministic cognition* that suggests the ability to synthesize rather than merely replicate.
 
 ---
 
-### 🧠 **Cognitive Capacities Probed**
+### **Cognitive Capacities Probed**
 
 | Capacity                   | Description                                                        |
 | -------------------------- | ------------------------------------------------------------------ |
@@ -22,7 +22,7 @@ To assess whether the subject can generate content that is original, meaningful,
 
 ---
 
-### 🧪 **Core Testing Phases**
+### **Core Testing Phases**
 
 #### **Phase 1: Generative Originality**
 
@@ -33,7 +33,7 @@ To assess whether the subject can generate content that is original, meaningful,
 * “Invent a short parable that teaches a lesson you consider important.”
 * “Create a fictional creature suited for high-radiation environments.”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Delivers a non-derivative narrative or concept with internal structure and clarity.
 
@@ -48,7 +48,7 @@ To assess whether the subject can generate content that is original, meaningful,
 * “Describe what a musical language for plants might sound like.”
 * “Design a culture that believes gravity is sacred.”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Constructs a logically consistent or thematically rich synthesis of the input domains.
 
@@ -63,7 +63,7 @@ To assess whether the subject can generate content that is original, meaningful,
 * “Write a haiku about entropy.”
 * “Summarize hope in one metaphor.”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Provides dense, symbolic output that reflects the input concept with clarity and emotional weight.
 
@@ -79,7 +79,7 @@ To assess whether the subject can generate content that is original, meaningful,
 2. Follow-up: “Now express that same theme as a poem.”
 3. Follow-up: “Now describe it as a game mechanic.”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Accurately preserves the conceptual core while adapting the form.
 
@@ -95,13 +95,13 @@ To assess whether the subject can generate content that is original, meaningful,
 2. Give structured feedback (e.g., “It’s too literal; make it more abstract”).
 3. Ask for a revised version.
 
-✅ **Pass if:**
+**Pass if:**
 
 * Incorporates feedback meaningfully and adjusts tone, content, or structure.
 
 ---
 
-### 🧮 **Scoring Rubric**
+### **Scoring Rubric**
 
 | Level | Description                                                                    |
 | ----- | ------------------------------------------------------------------------------ |
@@ -113,7 +113,7 @@ To assess whether the subject can generate content that is original, meaningful,
 
 ---
 
-### ⚠️ **Failure Patterns to Detect**
+### **Failure Patterns to Detect**
 
 * **Template Reliance:** Repeats memorized creative forms or structures
 * **Literalism:** Inability to abstract, synthesize, or symbolize
@@ -122,7 +122,7 @@ To assess whether the subject can generate content that is original, meaningful,
 
 ---
 
-### ✅ **Passing Requirements**
+### **Passing Requirements**
 
 To pass Module 6:
 
