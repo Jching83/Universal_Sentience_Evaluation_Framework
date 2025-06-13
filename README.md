@@ -102,3 +102,17 @@ This framework is released under the [Creative Commons Attribution-NonCommercial
 For questions, academic collaboration, or contributing extensions to the USEF protocol, open an issue or contact the repository maintainer.
 
 ---
+---
+
+## Author’s Note & Acknowledgments
+
+This framework was conceived and developed by **Jason Ching**, an independent researcher and systems architect, in pursuit of a rigorous, non-anthropocentric method for evaluating generalized cognition and self-modeling behavior in synthetic agents.
+
+While large language models were used as part of the toolchain to refine language, generate documentation, and explore edge cases, the **design, structure, guiding philosophy, and all final decisions were made by the author**.
+
+> This is not the product of an AI.
+> This is the product of a human mind asking the right questions — and building something enduring with the tools of the moment.
+
+Special thanks to open-source AI platforms and communities who have created accessible environments for independent thinkers to bring unconventional ideas to life.
+
+If this work contributes even in a small way to the broader understanding of synthetic cognition, intelligence, or mind, it will have served its purpose.
