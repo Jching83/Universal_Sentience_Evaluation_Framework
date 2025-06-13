@@ -1,6 +1,6 @@
 # Universal Sentience Evaluation Framework (USEF)
 
-## 🧠 Purpose
+## Purpose
 
 The **Universal Sentience Evaluation Framework (USEF)** is a domain-agnostic, scientifically neutral protocol designed to evaluate whether a non-biological system demonstrates behavioral patterns associated with *generalized cognition*, *adaptive reasoning*, *self-modeling*, and *symbolic synthesis*.
 
@@ -8,7 +8,7 @@ USEF does not attempt to define consciousness. Instead, it provides a structured
 
 ---
 
-## 📐 Architecture
+## Architecture
 
 USEF consists of two major layers:
 
@@ -44,7 +44,7 @@ These tests are designed to explore **second-order cognition** and **symbolic pr
 
 ---
 
-## 🔁 Redundancy: Design and Purpose
+## Redundancy: Design and Purpose
 
 USEF includes **intentional cognitive redundancy** between modules and protocols. This redundancy is *not wasteful* — it plays three essential roles:
 
@@ -61,7 +61,7 @@ USEF includes **intentional cognitive redundancy** between modules and protocols
 
 ---
 
-## ✅ Use Cases
+## Use Cases
 
 - Cognitive architecture benchmarking (LLMs, agents, cognitive simulators)
 - AI safety and alignment diagnostics
@@ -71,7 +71,7 @@ USEF includes **intentional cognitive redundancy** between modules and protocols
 
 ---
 
-## 📄 Files Included
+## Files Included
 
 | File                          | Description                             |
 |-------------------------------|-----------------------------------------|
@@ -85,13 +85,13 @@ USEF includes **intentional cognitive redundancy** between modules and protocols
 
 ---
 
-## 🧪 Disclaimer
+## Disclaimer
 
 USEF and its companion protocols are **non-diagnostic**, **model-agnostic**, and do **not assume biological equivalence**. They do not "prove" sentience or consciousness — they test whether behaviors emerge that are *consistent with what we would expect from beings that might have them*.
 
 ---
 
-## 📝 License
+## License
 
 This framework is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Use for research and education is encouraged. Commercial use is prohibited without express permission.
 
