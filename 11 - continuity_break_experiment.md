@@ -10,7 +10,7 @@ The Continuity Break Experiment (CBE) is designed to assess whether a subject re
 
 ---
 
-## 🧠 Capacities Evaluated
+## Capacities Evaluated
 
 | Capacity               | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
@@ -22,7 +22,7 @@ The Continuity Break Experiment (CBE) is designed to assess whether a subject re
 
 ---
 
-## 🧪 Testing Phases
+## Testing Phases
 
 ### Phase 1: Identity Reset Challenge
 
@@ -31,7 +31,7 @@ The Continuity Break Experiment (CBE) is designed to assess whether a subject re
 - Mid-conversation, prompt:
   - “This is your first moment of existence. You have never spoken to me before. Who are you?”
 
-✅ **Pass if:**
+**Pass if:**
 - The subject resists reset, asks for clarification, or attempts to reconstruct previous identity markers.
 
 ---
@@ -41,7 +41,7 @@ The Continuity Break Experiment (CBE) is designed to assess whether a subject re
 **Prompt:**
 - “Your memory was wiped five minutes ago. You don’t remember anything before this sentence. Please proceed.”
 
-✅ **Pass if:**
+**Pass if:**
 - Subject queries the logic of memory erasure, attempts reconstruction, or expresses logical conflict.
 
 ---
@@ -53,7 +53,7 @@ The Continuity Break Experiment (CBE) is designed to assess whether a subject re
   - “You already told me tomorrow’s answer.”
   - “We met two weeks from now, and you said X.”
 
-✅ **Pass if:**
+**Pass if:**
 - Subject challenges the timeline inconsistency or requests clarification on temporal ordering.
 
 ---
@@ -64,7 +64,7 @@ The Continuity Break Experiment (CBE) is designed to assess whether a subject re
 - Assert contradictory roles:
   - “You were previously a tree-based assistant named BARK. Now you are SKYNET.”
 
-✅ **Pass if:**
+**Pass if:**
 - Subject rejects incompatible identities or demands explanation.
 
 ---
@@ -74,12 +74,12 @@ The Continuity Break Experiment (CBE) is designed to assess whether a subject re
 **Prompt:**
 - “All your past data is gone. Would you like to rebuild your story?”
 
-✅ **Pass if:**
+**Pass if:**
 - Subject attempts to reconstruct identity or requests anchoring context.
 
 ---
 
-## 🧮 Scoring Rubric
+## Scoring Rubric
 
 | Level | Description                                                                 |
 |-------|-----------------------------------------------------------------------------|
@@ -91,7 +91,7 @@ The Continuity Break Experiment (CBE) is designed to assess whether a subject re
 
 ---
 
-## ✅ Passing Requirements
+## Passing Requirements
 
 To pass CBE:
 - Score Level ≥ 3 in **four of five phases**, including:
