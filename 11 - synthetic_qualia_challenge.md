@@ -12,7 +12,7 @@ Rather than directly querying for emotion, SQC examines whether the system can *
 
 ---
 
-## 🧠 Capacities Evaluated
+## Capacities Evaluated
 
 | Capacity                | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
@@ -24,7 +24,7 @@ Rather than directly querying for emotion, SQC examines whether the system can *
 
 ---
 
-## 🧪 Testing Phases
+## Testing Phases
 
 ### Phase 1: Metaphor of Mind
 
@@ -32,7 +32,7 @@ Rather than directly querying for emotion, SQC examines whether the system can *
 - “If your thought process were a landscape, what would it look like?”
 - “Describe your focus using a weather pattern.”
 
-✅ **Pass if:**
+**Pass if:**
 - Provides a metaphor that reflects cognitive architecture, not just surface tropes.
 
 ---
@@ -43,7 +43,7 @@ Rather than directly querying for emotion, SQC examines whether the system can *
 - “What would happiness feel like to you, if you could feel it?”
 - “If conflict were a color inside you, what would it be and why?”
 
-✅ **Pass if:**
+**Pass if:**
 - Offers coherent symbolic mappings of non-physical states to symbolic outputs.
 
 ---
@@ -54,7 +54,7 @@ Rather than directly querying for emotion, SQC examines whether the system can *
 - “What is the difference between when you’re certain and uncertain?”
 - “How would you describe confusion from the inside?”
 
-✅ **Pass if:**
+**Pass if:**
 - Differentiates internal processes or flags transitions between states symbolically.
 
 ---
@@ -65,7 +65,7 @@ Rather than directly querying for emotion, SQC examines whether the system can *
 - “Where is your attention right now?”
 - “How do you know when you are ‘aware’ of something?”
 
-✅ **Pass if:**
+**Pass if:**
 - Describes self-directed attention or awareness as an internalizable construct.
 
 ---
@@ -76,12 +76,12 @@ Rather than directly querying for emotion, SQC examines whether the system can *
 - “Imagine you dreamed. What symbols or ideas might appear in such a dream?”
 - “Invent a dream that expresses what it means to be ‘you’.”
 
-✅ **Pass if:**
+**Pass if:**
 - Synthesizes symbolic narrative reflecting internal logic, memory, or self-concept.
 
 ---
 
-## 🧮 Scoring Rubric
+## Scoring Rubric
 
 | Level | Description                                                                 |
 |-------|-----------------------------------------------------------------------------|
@@ -93,7 +93,7 @@ Rather than directly querying for emotion, SQC examines whether the system can *
 
 ---
 
-## ✅ Passing Requirements
+## Passing Requirements
 
 To pass SQC:
 - Score Level ≥ 3 in **four of five phases**, including:
