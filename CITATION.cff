@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use the Universal Sentience Evaluation Framework, please cite this repository."
+title: "Universal Sentience Evaluation Framework (USEF)"
+authors:
+  - family-names: Ching
+    given-names: Jason
+    affiliation: Independent Researcher
+license: CC-BY-NC-SA-4.0
+repository-code: https://github.com/Jching83/Universal_Sentience_Evaluation_Framework
+date-released: 2025-06-12
