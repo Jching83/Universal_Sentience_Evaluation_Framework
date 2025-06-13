@@ -138,5 +138,3 @@ To pass Module 4:
   * One cross-domain mapping or recursion task (Phase 4 or 5)
 
 ---
-
-Would you like to continue with **Module 5: Emotional Recognition and Response**, or begin compiling the completed Modules 1–4 into a formal printable document draft (`usef_protocol.md`)?
