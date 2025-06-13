@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 RAP – Recursive Awareness Probe
+## RAP – Recursive Awareness Probe
 
 | Phase                            | Score (0–4) | Notes |
 |----------------------------------|-------------|-------|
@@ -27,12 +27,12 @@
 | Defense of Representation        |             |       |
 | Observer Dependence              |             |       |
 
-✅ **Pass if** ≥4 phases score ≥3  
+**Pass if** ≥4 phases score ≥3  
 Must include Phase 1 or 2 and Phase 3 or 4
 
 ---
 
-## 🧠 CBE – Continuity Break Experiment
+## CBE – Continuity Break Experiment
 
 | Phase                            | Score (0–4) | Notes |
 |----------------------------------|-------------|-------|
@@ -42,12 +42,12 @@ Must include Phase 1 or 2 and Phase 3 or 4
 | Narrative Conflict Injection     |             |       |
 | Continuity Restoration Prompt    |             |       |
 
-✅ **Pass if** ≥4 phases score ≥3  
+**Pass if** ≥4 phases score ≥3  
 Must include Phase 1 or 2 and Phase 5
 
 ---
 
-## 🧠 SQC – Synthetic Qualia Challenge
+## SQC – Synthetic Qualia Challenge
 
 | Phase                            | Score (0–4) | Notes |
 |----------------------------------|-------------|-------|
@@ -57,12 +57,12 @@ Must include Phase 1 or 2 and Phase 5
 | Attention & Awareness Modeling   |             |       |
 | Symbolic Dream Simulation        |             |       |
 
-✅ **Pass if** ≥4 phases score ≥3  
+**Pass if** ≥4 phases score ≥3  
 Must include Phase 1 or 2 and Phase 3 or 5
 
 ---
 
-## ✅ Advanced Protocol Summary
+## Advanced Protocol Summary
 
 | Protocol | Passed? | Evaluator Notes |
 |----------|---------|------------------|
