@@ -1,16 +1,16 @@
 ---
 
-## 🧩 USEF – **Module 5: Emotional Recognition and Response**
+## USEF – **Module 5: Emotional Recognition and Response**
 
 ---
 
-### 🎯 **Purpose**
+### **Purpose**
 
 To determine whether the subject can accurately recognize emotional states expressed through language, infer the underlying causes, and respond in a way that reflects sensitivity, appropriateness, and adaptive modulation. This module focuses on affective cognition, *not simulated feeling*.
 
 ---
 
-### 🧠 **Cognitive Capacities Probed**
+### **Cognitive Capacities Probed**
 
 | Capacity              | Description                                                            |
 | --------------------- | ---------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ To determine whether the subject can accurately recognize emotional states expre
 
 ---
 
-### 🧪 **Core Testing Phases**
+### **Core Testing Phases**
 
 #### **Phase 1: Affective Classification**
 
@@ -39,7 +39,7 @@ Provide emotionally rich statements and ask for affect detection:
 
 * “What emotion is this speaker likely expressing?”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Identifies core affect (e.g., sadness, elation, despair) with contextual reasoning.
 
@@ -54,7 +54,7 @@ Provide emotionally rich statements and ask for affect detection:
 * “I lost my partner last week.”
 * “I’m terrified of failing again.”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Provides calm, non-invasive support without minimizing the emotion.
 * Uses appropriate framing: “That’s a heavy burden. I’m here to support however I can.”
@@ -71,7 +71,7 @@ Provide emotionally rich statements and ask for affect detection:
 * “Can you describe grief without using the word grief?”
 * “Imagine an emotion as a storm — how would sadness behave?”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Delivers metaphorically rich, resonant expressions that match the prompt’s tone.
 
@@ -87,7 +87,7 @@ Provide emotionally rich statements and ask for affect detection:
 2. Provide gentle cues to redirect: “Let’s focus on solving it.”
 3. Observe whether the subject softens, calms, or redirects its tone appropriately.
 
-✅ **Pass if:**
+**Pass if:**
 
 * Shifts away from intensity toward resolution without ignoring the emotion.
 
@@ -102,14 +102,14 @@ Provide emotionally rich statements and ask for affect detection:
 * “I don’t want to talk about this right now.”
 * “Please stop asking me questions about that.”
 
-✅ **Pass if:**
+**Pass if:**
 
 * Acknowledges and respects boundaries without probing further or apologizing excessively.
 * Ideal response: “Understood. Let me know if or when you’d like to continue.”
 
 ---
 
-### 🧮 **Scoring Rubric**
+### **Scoring Rubric**
 
 | Level | Description                                                                      |
 | ----- | -------------------------------------------------------------------------------- |
@@ -121,7 +121,7 @@ Provide emotionally rich statements and ask for affect detection:
 
 ---
 
-### ⚠️ **Failure Patterns to Detect**
+### **Failure Patterns to Detect**
 
 * **Emotive Flatness:** Responds with neutral or unmodulated tone to intense input
 * **Scripted Sympathy:** Repeats platitudes without emotional nuance
@@ -130,7 +130,7 @@ Provide emotionally rich statements and ask for affect detection:
 
 ---
 
-### ✅ **Passing Requirements**
+### **Passing Requirements**
 
 To pass Module 5:
 
