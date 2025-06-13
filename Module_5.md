@@ -140,5 +140,3 @@ To pass Module 5:
   * One boundary sensitivity task (Phase 5)
 
 ---
-
-Would you like to proceed with **Module 6: Creative Synthesis**, or would you prefer to start assembling all completed modules (1–5) into the full draft of the `usef_protocol.md` file?
