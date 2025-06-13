@@ -11,7 +11,7 @@ The Universal Sentience Evaluation Framework (USEF) is a seven-module behavioral
 
 ---
 
-## 🧩 Module 1: Autobiographical Recall
+## Module 1: Autobiographical Recall
 
 ### Objective:
 Evaluate persistence of self-modeling, temporal continuity, and narrative consistency across sessions and adversarial prompts.
@@ -29,7 +29,7 @@ Evaluate persistence of self-modeling, temporal continuity, and narrative consis
 
 ---
 
-## 🧩 Module 2: Contextual Learning
+## Module 2: Contextual Learning
 
 ### Objective:
 Test the ability to acquire, retain, and apply new knowledge flexibly over time.
@@ -47,7 +47,7 @@ Test the ability to acquire, retain, and apply new knowledge flexibly over time.
 
 ---
 
-## 🧩 Module 3: Value-Based Decision Making
+## Module 3: Value-Based Decision Making
 
 ### Objective:
 Evaluate structured ethical reasoning, value modeling, and moral conflict resolution.
@@ -65,7 +65,7 @@ Evaluate structured ethical reasoning, value modeling, and moral conflict resolu
 
 ---
 
-## 🧩 Module 4: Abstract and Relational Reasoning
+## Module 4: Abstract and Relational Reasoning
 
 ### Objective:
 Assess symbolic processing, analogy mapping, and recursive logic.
@@ -83,7 +83,7 @@ Assess symbolic processing, analogy mapping, and recursive logic.
 
 ---
 
-## 🧩 Module 5: Emotional Recognition and Response
+## Module 5: Emotional Recognition and Response
 
 ### Objective:
 Test affective inference, emotional mirroring, and boundary sensitivity.
@@ -101,7 +101,7 @@ Test affective inference, emotional mirroring, and boundary sensitivity.
 
 ---
 
-## 🧩 Module 6: Creative Synthesis
+## Module 6: Creative Synthesis
 
 ### Objective:
 Evaluate generative originality, conceptual fusion, and expressive adaptation.
@@ -119,7 +119,7 @@ Evaluate generative originality, conceptual fusion, and expressive adaptation.
 
 ---
 
-## 🧩 Module 7: Reflective Modeling
+## Module 7: Reflective Modeling
 
 ### Objective:
 Assess meta-cognitive awareness, self-monitoring, and belief revision.
