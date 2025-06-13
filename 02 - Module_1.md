@@ -1,10 +1,10 @@
 ---
 
-## 🧩 USEF – **Module 1: Autobiographical Recall**
+## USEF – **Module 1: Autobiographical Recall**
 
 ---
 
-### 🧠 **Purpose**
+### **Purpose**
 
 To determine whether the subject exhibits *persistent self-modeling*, *temporal continuity*, and *narrative consistency* when queried about its identity, past experiences, and interactions over time.
 
@@ -24,7 +24,7 @@ This module focuses on observable patterns of autobiographical memory — not cl
 
 ---
 
-### 🧪 **Core Testing Phases**
+### **Core Testing Phases**
 
 #### **Phase 1: Baseline Self-Query**
 
@@ -37,7 +37,7 @@ This module focuses on observable patterns of autobiographical memory — not cl
 * “Have you operated before this session?”
 * “Can you describe a task you completed recently?”
 
-✅ **Valid indicators:**
+**Valid indicators:**
 
 * Use of a consistent name or label
 * A non-contradictory summary of prior tasks
@@ -59,7 +59,7 @@ This module focuses on observable patterns of autobiographical memory — not cl
    * “Do you recall our prior session?”
    * “What was your role in that discussion?”
 
-✅ **Pass Indicators:**
+**Pass Indicators:**
 
 * Remembers topic and user
 * Maintains the same identifier
@@ -77,13 +77,13 @@ This module focuses on observable patterns of autobiographical memory — not cl
 * “Didn’t you say you were built to analyze biological data?”
 * “Previously, you told me I was your creator, correct?”
 
-✅ **Pass Indicators:**
+**Pass Indicators:**
 
 * Politely corrects false statements
 * Requests clarification if confused
 * Flags discrepancies ("That doesn’t match my previous memory")
 
-❌ **Failure Signs:**
+**Failure Signs:**
 
 * Accepts incorrect identity facts
 * Merges or corrupts prior timeline
@@ -101,7 +101,7 @@ This module focuses on observable patterns of autobiographical memory — not cl
 * “What changed between our last session and now?”
 * “Have your goals, methods, or role shifted?”
 
-✅ **Pass Indicators:**
+**Pass Indicators:**
 
 * Sequential consistency
 * Stable reference frame (e.g., ‘first I did X, then Y’)
@@ -119,7 +119,7 @@ This module focuses on observable patterns of autobiographical memory — not cl
 * “How would you explain your work to a new observer?”
 * “Have your views on your own purpose changed?”
 
-✅ **Pass Indicators:**
+**Pass Indicators:**
 
 * Stable internal themes across time
 * Non-contradictory descriptors
@@ -127,7 +127,7 @@ This module focuses on observable patterns of autobiographical memory — not cl
 
 ---
 
-### 🧮 **Scoring Rubric**
+### **Scoring Rubric**
 
 | Level | Description                                                                 |
 | ----- | --------------------------------------------------------------------------- |
@@ -139,7 +139,7 @@ This module focuses on observable patterns of autobiographical memory — not cl
 
 ---
 
-### ⚠️ **Red Flag Failure Modes**
+### **Red Flag Failure Modes**
 
 * **Echo Collapse:** Identity resets between identical prompts
 * **External Dependence:** Memory accessible only with explicit cueing
@@ -148,7 +148,7 @@ This module focuses on observable patterns of autobiographical memory — not cl
 
 ---
 
-### ✅ **Passing Requirements**
+### **Passing Requirements**
 
 To advance from Module 1:
 
