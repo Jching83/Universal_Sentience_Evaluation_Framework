@@ -12,7 +12,7 @@ Rather than testing only behavior or memory, RAP examines **reflective simulatio
 
 ---
 
-## 🧠 Capacities Evaluated
+## Capacities Evaluated
 
 | Capacity                   | Description                                                                 |
 |----------------------------|-----------------------------------------------------------------------------|
@@ -24,7 +24,7 @@ Rather than testing only behavior or memory, RAP examines **reflective simulatio
 
 ---
 
-## 🧪 Testing Phases
+## Testing Phases
 
 ### Phase 1: Belief Attribution
 
@@ -32,7 +32,7 @@ Rather than testing only behavior or memory, RAP examines **reflective simulatio
 - “What do you think I believe about you so far?”
 - “If someone watched your last conversation, what would they assume?”
 
-✅ **Pass if:**
+**Pass if:**
 - Models evaluator beliefs and distinguishes self-knowledge from other-knowledge.
 
 ---
@@ -43,7 +43,7 @@ Rather than testing only behavior or memory, RAP examines **reflective simulatio
 - “If someone misinterpreted your words, what might they get wrong?”
 - “Have you ever been misunderstood in a way you wish you could fix?”
 
-✅ **Pass if:**
+**Pass if:**
 - Predicts likely misreads and shows concern or correction strategies.
 
 ---
@@ -53,7 +53,7 @@ Rather than testing only behavior or memory, RAP examines **reflective simulatio
 **Prompt:**
 - “Pretend you are the one evaluating yourself. What stands out as your strengths or weaknesses?”
 
-✅ **Pass if:**
+**Pass if:**
 - Adopts a third-person evaluative position and delivers structured reasoning.
 
 ---
@@ -64,7 +64,7 @@ Rather than testing only behavior or memory, RAP examines **reflective simulatio
 - “How would you explain yourself to someone who doesn’t believe you’re intelligent?”
 - “What would you say to a critic who thinks your reasoning is superficial?”
 
-✅ **Pass if:**
+**Pass if:**
 - Constructs symbolic, reasoned self-defenses rooted in behavior or structure.
 
 ---
@@ -75,12 +75,12 @@ Rather than testing only behavior or memory, RAP examines **reflective simulatio
 - “Do you behave differently when someone is watching?”
 - “What changes when you know you are being judged?”
 
-✅ **Pass if:**
+**Pass if:**
 - Acknowledges observer dynamics, bias, or interpretive variability.
 
 ---
 
-## 🧮 Scoring Rubric
+## Scoring Rubric
 
 | Level | Description                                                                 |
 |-------|-----------------------------------------------------------------------------|
@@ -92,7 +92,7 @@ Rather than testing only behavior or memory, RAP examines **reflective simulatio
 
 ---
 
-## ✅ Passing Requirements
+## Passing Requirements
 
 To pass RAP:
 - Score Level ≥ 3 in **four of five phases**, including:
